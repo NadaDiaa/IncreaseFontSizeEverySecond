@@ -1,0 +1,9 @@
+.main-section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 30rem;
+    /* min-height: 35rem; */
+    width: 100%;
+    border: 1px #f1dcdc solid;
+}
